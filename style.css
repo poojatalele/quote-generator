@@ -104,6 +104,10 @@ body{
     border: 2px solid;
     cursor: pointer;
 }
+.features ul li:hover{
+  color: white;
+  background: black;
+}
 .features button{
   border: none;
   outline: none;
@@ -112,8 +116,7 @@ body{
   font-size: 15px;
   cursor: pointer;
   border-radius: 30px;
-  background: black;
-  
+  background: black; 
 }
 /* @import url('https://fonts.googleapis.com/css?family=Mukta:700');
 
